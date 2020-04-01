@@ -1,6 +1,6 @@
 import React from 'react';
-import Photos from './components.js/Photos'
-import Title from './components.js/Title';
+import Photos from './components/Photos'
+import Title from './components/Title';
 
 function App() {
   return (
